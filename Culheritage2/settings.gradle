@@ -1,0 +1,2 @@
+rootProject.name = "Culheritage"
+include ':app'
